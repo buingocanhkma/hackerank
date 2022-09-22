@@ -1,6 +1,6 @@
 # hackerank
 ## 1. Lonely Integer
-`There are  integers in an array . All but one integer occur in pairs. Your task is to find the number that occurs only once.
+```There are  integers in an array . All but one integer occur in pairs. Your task is to find the number that occurs only once.
 
 *Input Format
 
@@ -13,4 +13,5 @@ Constraints
 
 *Output Format
 
-Output , the number that occurs only once.`
+Output , the number that occurs only once.
+```
